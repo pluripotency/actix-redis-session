@@ -1,0 +1,16 @@
+{
+  "name": "actix-redis-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "parcel build index.html -d dist",
+    "coffee": "coffee -cwb -o js coffee_src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mithril": "^2.0.1"
+  }
+}
