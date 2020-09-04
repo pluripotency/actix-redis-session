@@ -11,6 +11,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "mithril": "^2.0.1"
+    "mithril": "^2.0.3"
   }
 }
